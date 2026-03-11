@@ -1,0 +1,13 @@
+{
+  "greeting": "Hello, I'm",
+  "name": "POOJA PATEL",
+  "nameLine1": "POOJA",
+  "nameLine2": "PATEL",
+  "title": "Data Science Graduate",
+  "tagline": "Data Science graduate with a strong background in statistical analysis, predictive modeling, and data visualization. Proficient in Python, R, SQL, Tableau, Power BI, and dashboard development, with hands-on experience analyzing large datasets, automating workflows, and improving decision-making in finance, cybersecurity, and business operations. Proven ability to streamline processes, enhance data accuracy, and deliver clear, actionable insights. Experienced project lead with strong communication, problem-solving, and collaboration skills.",
+  "ctaText": "View My Work",
+  "ctaLink": "#projects",
+  "socialLinks": {
+    "email": "patel.pooja81599@gmail.com"
+  }
+}

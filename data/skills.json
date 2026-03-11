@@ -1,0 +1,49 @@
+{
+  "heading": "Skills & Expertise",
+  "categories": [
+    {
+      "name": "Languages",
+      "items": [
+        "Python",
+        "R",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "items": [
+        "Pandas",
+        "NumPy",
+        "ggplot2",
+        "ggmap",
+        "leaflet"
+      ]
+    },
+    {
+      "name": "Tools & Platforms",
+      "items": [
+        "Excel",
+        "Tableau",
+        "Power BI",
+        "RStudio"
+      ]
+    },
+    {
+      "name": "Technical",
+      "items": [
+        "Data Analysis",
+        "Statistical Modeling",
+        "Data Mining",
+        "Data Wrangling",
+        "SQL Management",
+        "Data Visualization",
+        "Dashboarding",
+        "Problem-Solving",
+        "Analytical Thinking",
+        "Time Management",
+        "Collaboration",
+        "Attention to Detail"
+      ]
+    }
+  ]
+}

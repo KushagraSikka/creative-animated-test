@@ -1,0 +1,19 @@
+{
+  "heading": "About Me",
+  "bio": "Data Science graduate with a strong background in statistical analysis, predictive modeling, and data visualization. Proficient in Python, R, SQL, Tableau, Power BI, and dashboard development, with hands-on experience analyzing large datasets, automating workflows, and improving decision-making in finance, cybersecurity, and business operations. Proven ability to streamline processes, enhance data accuracy, and deliver clear, actionable insights. Experienced project lead with strong communication, problem-solving, and collaboration skills.",
+  "philosophy": "Python / R / SQL / Pandas / Repeat",
+  "highlights": [
+    {
+      "label": "Years Experience",
+      "value": "3+"
+    },
+    {
+      "label": "Projects Completed",
+      "value": "3+"
+    },
+    {
+      "label": "Technologies",
+      "value": "24+"
+    }
+  ]
+}
